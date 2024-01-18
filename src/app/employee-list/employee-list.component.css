@@ -1,0 +1,10 @@
+.anyClass {
+    height:370px;
+    overflow-y: scroll;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h2{
+    color: white;
+    padding: 1px 2px 2px 1px;
+  }
